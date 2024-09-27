@@ -1,5 +1,6 @@
 //Amir
 //hello world kode
+// uge 36
 
 #include <iostream>
 
