@@ -1,3 +1,6 @@
+//Amir
+//hello world kode
+
 #include <iostream>
 
 int main() {
